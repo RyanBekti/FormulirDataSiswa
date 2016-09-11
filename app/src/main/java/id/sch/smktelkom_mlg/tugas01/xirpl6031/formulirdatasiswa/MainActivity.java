@@ -129,6 +129,7 @@ public class MainActivity extends AppCompatActivity {
             valid = false;
         } else {
             etAsal.setError(null);
+            valid = false;
         }
         return valid;
     }
