@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         angk = (Spinner) findViewById(R.id.spinner);
         etNama.setText("Ryan");
         etAsal.setText("2000");
+
         bSend.setOnClickListener(new View.OnClickListener() {
                                      @Override
                                      public void onClick(View view) {
