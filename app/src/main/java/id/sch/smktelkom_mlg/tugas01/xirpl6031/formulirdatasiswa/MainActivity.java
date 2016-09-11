@@ -45,7 +45,8 @@ public class MainActivity extends AppCompatActivity {
         eks = (TextView) findViewById(R.id.textViewEkskul);
         akir = (TextView) findViewById(R.id.last);
         angk = (Spinner) findViewById(R.id.spinner);
-
+        etNama.setText("Ryan");
+        etAsal.setText("2000");
         bSend.setOnClickListener(new View.OnClickListener() {
                                      @Override
                                      public void onClick(View view) {
@@ -129,7 +130,6 @@ public class MainActivity extends AppCompatActivity {
             valid = false;
         } else {
             etAsal.setError(null);
-            valid = false;
         }
         return valid;
     }
