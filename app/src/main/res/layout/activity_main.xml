@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
-            android:layout_alignParentleft="true"
+
             android:layout_marginTop="104dp"
             android:text="Nama :"
             android:textColor="#ffffff"
@@ -28,7 +28,7 @@
             android:id="@+id/editTextNama"
             android:layout_width="265dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
+
             android:layout_alignParentStart="true"
             android:layout_below="@+id/textView"
             android:layout_weight="1"
@@ -38,7 +38,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/editTextNama"
             android:text="Tahun Lahir :"
             android:textColor="#ffffff"
@@ -48,7 +48,7 @@
             android:id="@+id/editTextAsal"
             android:layout_width="265dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/textView2"
             android:inputType="number" />
 
@@ -56,7 +56,7 @@
             android:id="@+id/textViewjuru"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/editTextAsal"
             android:text="Jurusan :"
             android:textColor="#ffffff"
@@ -66,7 +66,7 @@
             android:id="@+id/radioGroup"
             android:layout_width="match_parent"
             android:layout_height="70dp"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/textViewjuru">
 
             <RadioButton
@@ -93,7 +93,7 @@
             android:id="@+id/textView4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/radioGroup"
             android:text="Ekskul :"
             android:textColor="#ffffff"
@@ -103,7 +103,7 @@
             android:id="@+id/checkBoxBasket"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/textView4"
             android:buttonTint="#ffffff"
             android:checked="false"
@@ -114,7 +114,7 @@
             android:id="@+id/checkBoxVoli"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/checkBoxFutsal"
             android:buttonTint="#ffffff"
             android:checked="false"
@@ -125,7 +125,7 @@
             android:id="@+id/checkBoxFutsal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/checkBoxBasket"
             android:buttonTint="#ffffff"
             android:checked="false"
@@ -136,7 +136,7 @@
             android:id="@+id/textView5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_alignTop="@+id/spinner"
             android:singleLine="false"
             android:text="Angkatan :"
@@ -148,7 +148,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignLeft="@+id/imageView2"
-            android:layout_alignParentleft="@+id/buttonSend"
+
             android:layout_alignStart="@+id/imageView2"
             android:layout_below="@+id/checkBoxVoli"
             android:background="#9bafc9"
@@ -191,28 +191,28 @@
             android:id="@+id/textViewAsal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
+
             android:layout_below="@+id/textViewTv" />
 
         <TextView
             android:id="@+id/jurusan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/textViewAsal" />
 
         <TextView
             android:id="@+id/textViewEkskul"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/jurusan" />
 
         <TextView
             android:id="@+id/last"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentleft="true"
+
             android:layout_below="@+id/textViewEkskul"
             android:layout_gravity="center_horizontal" />
 

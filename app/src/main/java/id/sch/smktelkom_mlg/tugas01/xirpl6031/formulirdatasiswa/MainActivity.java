@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity {
         akir = (TextView) findViewById(R.id.last);
         angk = (Spinner) findViewById(R.id.spinner);
 
-        etNama.setText("Nama Lengkap");
-        etAsal.setText("Asal Kota");
         bSend.setOnClickListener(new View.OnClickListener() {
                                      @Override
                                      public void onClick(View view) {
