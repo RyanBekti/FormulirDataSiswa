@@ -1,17 +1,17 @@
-# FormulirDataSiswa
-Topik adalah pembuatan formulir pengisian data siswa
-User harus mengisikan nama, Tahun lahir, Jurusan, Eksul, dan Angkatan user
-Fungsi yaitu mempermudah dalam mendaftarkan identitas siswa
-validasi yaitu semua content harus diisi user
+# FormulirDataSiswa<br>
+Topik adalah pembuatan formulir pengisian data siswa<br>
+User harus mengisikan nama, Tahun lahir, Jurusan, Eksul, dan Angkatan user<br>
+Fungsi yaitu mempermudah dalam mendaftarkan identitas siswa<br>
+validasi yaitu semua content harus diisi user<br>
 
-![SS1](https://docs.google.com/uc?id=0B8w2AZUEmJ9fQmlmb2c3a2dHeG8)
-![SS2](https://docs.google.com/uc?id=0B8w2AZUEmJ9fSUlhY3pYdWM5Zlk)
-![SS3](https://docs.google.com/uc?id=0B8w2AZUEmJ9fSjVIZkMwdHpkSWs)
+![SS1](https://docs.google.com/uc?id=0B8w2AZUEmJ9fQmlmb2c3a2dHeG8)<br>
+![SS2](https://docs.google.com/uc?id=0B8w2AZUEmJ9fSUlhY3pYdWM5Zlk)<br>
+![SS3](https://docs.google.com/uc?id=0B8w2AZUEmJ9fSjVIZkMwdHpkSWs)<br>
 
-[Apk]https://docs.google.com/uc?id=0B8w2AZUEmJ9fOE5qeFB5c1BPWGM
+[LINK APK](https://docs.google.com/uc?id=0B8w2AZUEmJ9fOE5qeFB5c1BPWGM)<br>
 
-Nama : Ryan Bekti Mahendra
-Kelas : XI-RPL6
-No : 36
-NIS : 48211539
-Sekolah : SMK TELKOM MALANG
+Nama : Ryan Bekti Mahendra<br>
+Kelas : XI-RPL6<br>
+No : 36<br>
+NIS : 48211539<br>
+Sekolah : SMK TELKOM MALANG<br>
