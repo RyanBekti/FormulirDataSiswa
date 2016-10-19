@@ -12,6 +12,6 @@ validasi yaitu semua content harus diisi user<br>
 
 Nama : Ryan Bekti Mahendra<br>
 Kelas : XI-RPL6<br>
-No : 36<br>
+No : 31<br>
 NIS : 48211539<br>
 Sekolah : SMK TELKOM MALANG<br>
